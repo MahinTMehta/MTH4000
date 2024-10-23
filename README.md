@@ -2,4 +2,4 @@
 
 
 
-READ ME file for Mahin Mehta and his pyhton test.
+READ ME file for Mahin Mehta and his python test.
